@@ -1,7 +1,7 @@
 # Milky_Way
 
 Create a environment
-Python=3.6.6
+Python=3.7
 
 ### Installation
 
