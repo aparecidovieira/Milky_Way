@@ -7,7 +7,10 @@ Python=3.6.6
 
 Change to gst-python-tutorials folder and run
 
-> $ pip install --upgrade wheel pip setuptools
+```bash
+pip install foobar
+```
+> $ pip install --upgrade wheel pip setuptools 
 > $ pip install --upgrade --requirement requirements.txt
 > $ pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.htm
 > $ pip install -r environment_milky.txt
