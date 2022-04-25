@@ -16,9 +16,8 @@ This implementation has been developed and tested on Ubuntu 18.04 and 20.04. So 
 
 ### Run the application with
 
-{ 
-  $ python main.py
-}
+
+>  $ python main.py
 
 ### Push images (np.ndarray) to any Gstreamer pipeline
 
