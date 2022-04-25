@@ -16,7 +16,7 @@ $ pip install -r environment_milky.txt
 
 This implementation has been developed and tested on Ubuntu 18.04 and 20.04. So the installation steps are specific to debian based linux distros
 
-### Download weight for torch infernece
+### Download weight for torch inference
 ```bash
 https://1drv.ms/u/s!AmAEqgw7bbR-zUVqjQYAV_Nh3oj9?e=tRPcCH
 ```
