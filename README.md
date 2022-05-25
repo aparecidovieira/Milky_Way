@@ -1,6 +1,6 @@
 # Milky_Way
 
-Create a environment
+Create an environment
 Python=3.6.6
 
 ### Installation
